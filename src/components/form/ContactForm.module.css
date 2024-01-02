@@ -1,0 +1,21 @@
+
+.form {
+    position: relative;
+    
+}
+
+.label_name {
+    position: absolute;
+    top: -10px;
+    left: 7px;
+    background: white;
+    padding: 0 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+input, textarea {
+    width: 455px;
+    height: 40px;
+    margin-bottom: 29px;
+}
